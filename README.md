@@ -115,8 +115,7 @@
 ## Recent Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjamamKarim&hide_title=true&langs_count=8&layout=compact&theme=algolia&cache_seconds=7200)](https://github.com/InjamamKarim)
 ## All Languages So Far
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjamamKarim&hide_title=true)](https://github.com/InjamamKarim/github-readme-stats)
-<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjamamKarim&hide_title=true&langs_count=8&layout=compact&theme=algolia&cache_seconds=7200)](https://github.com/InjamamKarim)
 <!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/InjamamKarim"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=InjamamKarim&custom_title=Priyesh%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
