@@ -113,10 +113,7 @@
 <br/>
 
 ## Recent Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjamamKarim&hide_title=true)](https://github.com/InjamamKarim/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjamamKarim&hide_title=true&langs_count=8&layout=compact&theme=algolia&cache_seconds=7200)](https://github.com/InjamamKarim)
 ## All Languages So Far
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjamamKarim&hide_title=true)](https://github.com/InjamamKarim/github-readme-stats)
 <br></br>
