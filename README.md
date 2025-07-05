@@ -20,7 +20,7 @@
 - :school: I am studing `Mathematical Data Science at Universität Göttingen`
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1yzSrQaXyEMmG_Iu8LNrdk79IrUI0P4Tw/view?usp=drive_link))
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1yzSrQaXyEMmG_Iu8LNrdk79IrUI0P4Tw/view?usp=drive_link)
 - :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
@@ -97,7 +97,7 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.codewars.com/users/PratikHdhameliya"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
+    <a href="https://www.codewars.com/users/InjamamKarim"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
 </p>
 
  ### 👉 Operating Systems
