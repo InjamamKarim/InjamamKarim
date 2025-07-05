@@ -10,7 +10,7 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=PratikHdhameliya&label=Profile%20views&color=0e75b6&style=plastic" alt="PratikHdhameliya" /> 
+	<img src="https://komarev.com/ghpvc/?username=InjamamKarim&label=Profile%20views&color=0e75b6&style=plastic" alt="InjamamKarim" /> 
 <!-- 	<a href = "https://commits.top/india.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="PratikHdhameliya" target="_blank"/> 
 	</a> -->
@@ -20,7 +20,7 @@
 - :school: I am studing `Mathematical Data Science at Universität Göttingen`
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,)
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1yzSrQaXyEMmG_Iu8LNrdk79IrUI0P4Tw/view?usp=drive_link))
 - :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
