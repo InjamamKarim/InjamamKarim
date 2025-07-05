@@ -1,4 +1,4 @@
-<h1 align="center">Hi , Myself Injamam Ul Karim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello there, wellcome , Injamam Ul Karim here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=data+scientist;Problem+Solving;DS%20|%20Algorithms%20|%20OOPS%20;Specialist%20on%20Codewars;5%20Kyu%20on%20Codewars;Always%20learning%20new%20things&size=30&color=5FF729&center=true&width=500&height=50"></a> 
@@ -21,7 +21,7 @@
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1yzSrQaXyEMmG_Iu8LNrdk79IrUI0P4Tw/view?usp=drive_link)
-- :nerd_face: `Eager to learn new things`
+- :nerd_face: I have a very good mathematical and analytical understanding of AI and Algorithms and ` Eager to learn more new things`
 <br></br>
 ##  Github Stats
 ![Injamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjamamKarim&show_icons=true&theme=vuw&hide=prs,contribs)
